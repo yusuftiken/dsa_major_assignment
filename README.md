@@ -1,4 +1,4 @@
-# MajorAssignmentDSAelifnisaolcucu
+# dsa_major_assignment
 ## Data Structures and Algorithms Major Assignment
 Data Structures and Algorithms
 This project includes 12 different problems solved in C++.
